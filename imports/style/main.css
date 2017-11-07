@@ -5,4 +5,5 @@
 
 #nfl-table {
     border: 1px solid #ddd;
+    cursor: pointer;
 }

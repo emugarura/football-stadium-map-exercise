@@ -6,6 +6,7 @@ clover.xml
 
 # editor and that .tmp file
 .idea
+.idea/*
 .tmp
 .tags
 .tags1
