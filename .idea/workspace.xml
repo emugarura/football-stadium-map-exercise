@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2777486c-79d3-4827-8ddc-69279a6bebae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stadiums.geojson" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imports/js/main.js" afterPath="$PROJECT_DIR$/imports/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,17 +19,17 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="28" />
+                <state relative-caret-position="225">
+                  <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/imports/style/main.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="105">
@@ -88,10 +86,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/imports/stadiums.geojson" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/imports/style/main.css" />
         <option value="$PROJECT_DIR$/stadiums.geojson" />
         <option value="$PROJECT_DIR$/imports/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -305,12 +303,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510006533435</updated>
       <workItem from="1510006534767" duration="8301000" />
-      <workItem from="1510017234794" duration="773000" />
+      <workItem from="1510017234794" duration="1180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9074000" />
+    <option name="totallyTimeSpent" value="9481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2556" y="-307" width="2556" height="1417" extended-state="6" />
@@ -373,14 +371,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imports/stadiums.geojson" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imports/style/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -405,6 +395,14 @@
             <element signature="e#0#46#0" expanded="false" />
             <marker date="1510017867000" expanded="true" signature="389:395" ph="©" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
