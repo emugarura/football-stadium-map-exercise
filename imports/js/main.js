@@ -7,7 +7,7 @@
 $( document ).ready( function() {
 	let mapper = new Mapper();
 
-	mapper.getJson( 'https://raw.github.com/sisskind/GeoJSON-Football/master/stadiums.geojson' ).then( json => {
+	mapper.getJson( 'https://s3.amazonaws.com/mputipong/football-map-exercise/stadiums.geojson' ).then( json => {
 		mapper.addMarkers( json );
 	} );
 } );
