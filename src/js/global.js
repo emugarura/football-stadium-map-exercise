@@ -1,8 +1,10 @@
 /**
- * Created by mattputipong on 11/6/17.
+ * Created by mattputipong on 11/7/17.
  */
 
 'use strict';
+
+import Mapper from './Mapper';
 
 $( document ).ready( function() {
     let mapper = new Mapper();

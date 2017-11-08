@@ -4,6 +4,8 @@
 
 'use strict';
 
+import L from 'leaflet';
+
 /**
  * Class to map data using Leaflet.js
  */
@@ -117,4 +119,4 @@ class Mapper
     }
 }
 
-window.Mapper = Mapper;
+export default Mapper;
