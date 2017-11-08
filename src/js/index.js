@@ -4,10 +4,9 @@
 
 'use strict';
 
-$( document ).ready( function() {
-    let mapper = new Mapper();
-
-    mapper.getJson( 'https://s3.amazonaws.com/mputipong/football-map-exercise/stadiums.geojson' )
-        .then( json => mapper.addMarkers( json ) )
-        .catch( err => console.log( err ) );
-} );
+import 'babel-polyfill';
+// import 'leaflet-css';
+import '../lib/bootstrap/css/bootstrap.min.css';
+import '../lib/leaflet/leaflet.css';
+import '../css/main.scss';
+import './global';
